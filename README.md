@@ -1,2 +1,2 @@
-# M4ch1n3-L34rn1ng
+# Machine Learning
 Whatever I have studied
