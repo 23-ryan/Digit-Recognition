@@ -1,2 +1,1 @@
-# Machine Learning
-Whatever I have studied
+# Digit Recognition
