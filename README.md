@@ -6,7 +6,7 @@ I implemented a neural network with a **single hidden layer** and trained that u
 
 ## *Project Files*
 The project is developed using ***jupyter notebook*** <br>
-Project files can be accessed [here](https://github.com/23-ryan/Digit-Recognition/blob/main/digitRecog.ipynb).
+Project files can be accessed [here](https://github.com/23-ryan/Digit-Recognition/blob/main/Untitled.ipynb).
 
 
 
